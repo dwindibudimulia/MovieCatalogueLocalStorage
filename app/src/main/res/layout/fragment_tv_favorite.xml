@@ -8,6 +8,9 @@
     android:orientation="vertical"
     tools:context=".activity.ListTvShowFavoriteActivity">
 
+<!-- this is my change -->
+<!-- cannot resolve symbol '@layout/item_tv_favorite' -->
+<!-- solved problem, my change @layout/item_tv_show -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_tvShow_fav"
         android:layout_width="match_parent"
@@ -15,7 +18,7 @@
         android:layout_marginTop="50dp"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         app:layout_constraintTop_toTopOf="parent"
-        tools:listitem="@layout/item_tv_favorite" />
+        tools:listitem="@layout/item_tv_show" />
 
 
 
