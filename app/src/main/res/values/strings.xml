@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Indo Movies</string>
+    <string name="name_movies">Nama Movies</string>
+    <string name="name_tv_show">Nama Tv Show</string>
+    <string name="rating_movie">Rating Movie</string>
+    <string name="rating_tv_show">Rating Tv Show</string>
+    <string name="desc_movies">Overview</string>
+    <string name="date_movies">Release Date </string>
+    <string name="date_tv_show">Date Tv Show</string>
+    <string name="movies_photo">Movies Photo</string>
+    <string name="tv_show_photo">Tv Show Photo</string>
+    <string name="genre_movies">Genres</string>
+    <string name="genre_tv_show">Genres</string>
+    <string name="language">Language</string>
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tv">Tv Show</string>
+    <string name="change_language">Change Language</string>
+    <string name="widget_fav">My Favorite</string>
+    <string name="tab_1">Movie</string>
+    <string name="tab_2">Tv Show</string>
+    <string name="empty_list">Your favourite list is empty</string>
+    <string name="remove"> Remove From Favorite </string>
+    <string name="add">Add to Favorite</string>
+    <string name="add_failed">Failed Add Movie</string>
+    <string name="btn_fav">Favorite</string>
+    <string name="btn_home">Home</string>
+    <string name="notif_question_delete">Are you sure to delete this item?</string>
+    <string name="empty">Overview is not set by API provider</string>
+    <string name="delete_movie">Delete MOVIE</string>
+    <string name="delete_tv">Delete Tv Show</string>
+    <string name="yes">Yes</string>
+    <string name="failed"> Failed delete data!</string>
+    <string name="no"> No !!!</string>
+</resources>

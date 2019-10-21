@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Indo Movies</string>
+
+    <string name="name_movies">Nama Film</string>
+    <string name="name_tv_show">Nama Acara Tv</string>
+    <string name="rating_movie">Rating Film</string>
+    <string name="rating_tv_show">Rating Acara Tv</string>
+    <string name="desc_movies">Ikhtisar</string>
+    <string name="date_movies">Tanggal Rilis Film </string>
+    <string name="date_tv_show">Tanggal Rilis Acara Tv</string>
+    <string name="movies_photo">Foto Film</string>
+    <string name="tv_show_photo">Foto Acara Tv</string>
+    <string name="genre_movies">Aliran</string>
+    <string name="genre_tv_show">Aliran</string>
+    <string name="language">Bahasa</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv">Acara Tv</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="widget_fav">Favorite Saya</string>
+    <string name="tab_1">Film</string>
+    <string name="tab_2">Acara Tv</string>
+    <string name="empty_list">Daftar favorit masih kosong</string>
+    <string name="remove"> Dihapus dari Favorite </string>
+    <string name="add">Ditambahkan ke Favorite</string>
+    <string name="add_failed">Gagal menambahkan Film Ke favorite</string>
+    <string name="btn_fav">Favorite</string>
+    <string name="btn_home">Home</string>
+    <string name="empty">Sinopsis tidak ditampilkan oleh penyedia data</string>
+    <string name="notif_question_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="delete_movie">Hapus Film</string>
+    <string name="delete_tv">Hapus Acara Tv</string>
+    <string name="yes">Ya</string>
+    <string name="failed"> Gagal Hapus Data!</string>
+    <string name="no"> Tidak !!!</string>
+</resources>
